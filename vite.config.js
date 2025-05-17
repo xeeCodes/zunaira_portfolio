@@ -6,5 +6,5 @@ import tailwindcss from 'tailwindcss'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(),tailwindcss()],
-  base:"/zunaira_portfolio",
+  base:"/zunaira-portfolio",
 })
